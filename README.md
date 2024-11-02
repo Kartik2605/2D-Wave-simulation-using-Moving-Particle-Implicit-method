@@ -24,3 +24,10 @@ A 7.5 m channelwith 0.5 m initial water depth has been considered. Particle diam
 ![Wave profile at t = 1.0s](images/1.0s=t.png)
 
 *Wave profile at t = 1.0s*
+
+The pressure gradient profile at t=0.81s :-
+
+![Wave profile at t = 1.0s](images/0.81s=t.png)
+
+*Pressure gradient profile at t = 0.81s*
+
