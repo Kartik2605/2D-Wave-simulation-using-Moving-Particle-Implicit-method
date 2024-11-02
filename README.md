@@ -36,6 +36,3 @@ The pressure gradient profile at t=0.81s :-
     <img src="images/0.81s=t.png" alt="Alt text for image" width="400"/>
 </div>
 <p align="center">Pressure gradient profile at t = 0.81s</p>
-
-*Pressure gradient profile at t = 0.81s*
-
