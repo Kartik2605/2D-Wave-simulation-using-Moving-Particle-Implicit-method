@@ -16,9 +16,11 @@ A 7.5 m channelwith 0.5 m initial water depth has been considered. Particle diam
 ![Wave profile at t = 0.24s](images/0.24s=t.png)
 
 *Wave profile at t = 0.24s*
+
 ![Wave profile at t = 0.75s](images/0.75s=t.png)
 
 *Wave profile at t = 0.75s*
+
 ![Wave profile at t = 1.0s](images/1.0s=t.png)
 
 *Wave profile at t = 1.0s*
