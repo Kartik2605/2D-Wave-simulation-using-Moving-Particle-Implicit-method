@@ -16,24 +16,24 @@ The report file gives a detail overiew of the model implementation and using it 
 A 7.5 m channelwith 0.5 m initial water depth has been considered. Particle diameter is considered 0.045 meter and radius of influence of 0.09m. So totally 2496 particles are used in this calculation. The simulation is ran for a time period of 3s with a time step of 0.01s. The wave profiles at t = 0.24s, 0.75s and 1.0s :-
 
 <div align="center">
-    <img src="images/0.24s=t.png" alt="Alt text for image" width="500"/>
+    <img src="images/0.24s=t.png" alt="Alt text for image" width="400"/>
 </div>
 <p align="center">Wave profile at t = 0.24s</p>
 
 <div align="center">
-    <img src="images/0.75s=t.png" alt="Alt text for image" width="500"/>
+    <img src="images/0.75s=t.png" alt="Alt text for image" width="400"/>
 </div>
 <p align="center">Wave profile at t = 0.75s</p>
 
 <div align="center">
-    <img src="images/1.0s=t.png" alt="Alt text for image" width="500"/>
+    <img src="images/1.0s=t.png" alt="Alt text for image" width="400"/>
 </div>
 <p align="center">Wave profile at t = 1.0s</p>
 
 The pressure gradient profile at t=0.81s :-
 
 <div align="center">
-    <img src="images/0.81s=t.png" alt="Alt text for image" width="500"/>
+    <img src="images/0.81s=t.png" alt="Alt text for image" width="400"/>
 </div>
 <p align="center">Pressure gradient profile at t = 0.81s</p>
 
