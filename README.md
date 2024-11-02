@@ -8,4 +8,4 @@ The MPS method is chosen for its ability to model free surfaces and fluid inter-
 The report file gives a detail overiew of the model implementation and using it for simulating different 2D waveforms. It is validated for a 2D solitary wave form against the standard benchmark case found in the literature.
 
 ## Program Flow :
-![Alt text describing the image](Flow_Chart.jpg)
+![Alt text describing the image](images/Flow_Chart.jpg)
