@@ -8,7 +8,7 @@ The MPS method is chosen for its ability to model free surfaces and fluid inter-
 The report file gives a detail overiew of the model implementation and using it for simulating different 2D waveforms. It is validated for a 2D solitary wave form against the standard benchmark case found in the literature.
 
 ## Program Flow :
-![Alt text describing the image](images/Flow_Chart.jpg)
+<img src="images/Flow_Chart.jpg" alt="Project Diagram" width="300"/>
 
 ## Model Validation :
 A 7.5 m channelwith 0.5 m initial water depth has been considered. Particle diameter is considered 0.045 meter and radius of influence of 0.09m. So totally 2496 particles are used in this calculation. The simulation is ran for a time period of 3s with a time step of 0.01s. The wave profiles at t = 0.24s, 0.75s and 1.0s :-
